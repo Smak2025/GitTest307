@@ -9,4 +9,6 @@ fun main() {
     a.method2()
     a.method1()
     a2.method2()
+    val b = B()
+    b.method1()
 }
